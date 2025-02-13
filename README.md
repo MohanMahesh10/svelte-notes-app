@@ -25,6 +25,6 @@ Follow these steps to set up and run the project locally:
    ```bash
    git clone https://github.com/MohanMahesh10/svelte-notes-app.git
    cd svelte-notes-app
-   npm install //Run the following command to install all the necessary dependencies
-   npm run dev //start the development server with the following command
+   npm install 
+   npm run dev 
    
