@@ -1,5 +1,5 @@
- Svelte Notes App
- #![Screenshot 2025-02-14 020826](https://github.com/user-attachments/assets/3badd998-4126-4309-82a1-5aaed77f9816)
+ ##Svelte Notes App
+ ![Screenshot 2025-02-14 020826](https://github.com/user-attachments/assets/3badd998-4126-4309-82a1-5aaed77f9816)
 A simplified, feature-rich note-taking application inspired by Google Keep, built using Svelte. This app allows users to manage notes with features like labels, dark mode, and search functionality.
 
 ## Features
